@@ -1,0 +1,5 @@
+data:
+  env: mm-config-dev
+  user:
+    username: eureka-client-user
+    password: 1291029102
